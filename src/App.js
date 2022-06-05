@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning React Code
+          Learning React Code 
+          Mac Mini
         </a>
       </header>
     </div>
