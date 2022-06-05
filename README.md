@@ -78,4 +78,7 @@ also these are helpful
 git add -u :/ adds all modified file changes to the stage 
 git add * :/ adds modified and any new files (that's not gitignore'ed) to the stage
 
+https://docs.github.com/en/get-started/quickstart/set-up-git
+
+
 
