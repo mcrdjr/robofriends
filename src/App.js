@@ -17,6 +17,7 @@ function App() {
         >
           Learning React Code 
           Mac Mini
+          Mac Air
         </a>
       </header>
     </div>
