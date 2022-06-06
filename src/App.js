@@ -18,8 +18,6 @@ class App extends React.Component {
           rel="noopener noreferrer"
         >
           Learning React Code 
-          Mac Mini
-          Mac Air
         </a>
       </header>
     </div>
