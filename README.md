@@ -82,5 +82,15 @@ git add * :/ adds modified and any new files (that's not gitignore'ed) to the st
 
 https://docs.github.com/en/get-started/quickstart/set-up-git
 
+to copy repo onto another system and get it working
+
+git clone https://github.com/mcrdjr/robofriends.git
+
+node init-y to get node_modules folder
+
+remove package-lock.json changes and then git add -u :/ , git copmmit -m "message", git push
+
+
+
 
 
