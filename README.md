@@ -80,6 +80,8 @@ git add -u :/ adds all modified file changes to the stage
 
 git add * :/ adds modified and any new files (that's not gitignore'ed) to the stage
 
+git add -u :/ && git add * :/ && git commit -m "More Code Changes" && git push
+
 https://docs.github.com/en/get-started/quickstart/set-up-git
 
 to copy repo onto another system and get it working
