@@ -90,7 +90,10 @@ git clone https://github.com/mcrdjr/robofriends.git
 
 node init-y to get node_modules folder
 
-remove package-lock.json changes and then git add -u :/ , git commit -m "message", git push
+## remove package-lock.json changes and then git add -u :/ , git commit -m "message", git push
+
+https://reactjs.org/docs/react-component.html
+
 
 
 
