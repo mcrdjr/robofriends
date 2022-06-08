@@ -8,7 +8,7 @@ class App extends Component {
     constructor() {
         super()
         this.state = {
-            robots: [],
+            robots: [], //was robots
             searchfield: ''
         }   
         //console.log('Constructor'); 
