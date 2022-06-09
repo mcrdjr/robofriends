@@ -94,6 +94,8 @@ node init-y to get node_modules folder
 
 https://reactjs.org/docs/react-component.html
 
+https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+
 
 
 
